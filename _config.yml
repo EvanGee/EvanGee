@@ -30,10 +30,10 @@ linkedin_username: evan-giese-47192bba
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-  - title: itsgoingto.be
-    icon: fas fa-globe
-    url: https://www.itsgoingto.be
+# additional_links:
+#  - title: itsgoingto.be
+#    icon: fas fa-globe
+#    url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -159,10 +159,9 @@ content:
       - Economics and banking
       - Building radio devices.
 
-      ![Plants0](/EvanGee/images/plants.jpg "Plants0")
-      ![Plants1](/EvanGee/images/plants2.jpg "Plants1")
-      ![Plants2](/EvanGee/images/plants3.jpg "Plants2")
-      ![Plants3](/EvanGee/images/plants4.jpg "Plants3")
+
+      ![Plants0](/EvanGee/images/plants0.jpg "Plants0")
+      ![Plants1](/EvanGee/images/plants1.jpg "Plants1")
 
 # Footer
 footer_show_references: true
