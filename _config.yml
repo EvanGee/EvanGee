@@ -53,11 +53,13 @@ about_content: | # this will include new lines to allow paragraphs
   At university I was one of the founders and vice president of the MacEwan computer science club. As vice president, I helped 
   students get engaged in computer science, raising the club membership from around 10 to over 100 people in a couple months. My
   involvement encouraged other club members to put in 100% effort, and together we organized many talks and events. 
-  Today, the club still exists and has grown with thousands of computer science students and Alumni. 
+  Today, the club still exists and has grown with thousands of computer science students and Alumni.
+link: https://albertasat.ca/ex-alta-2/
 
-  Volunteering at the University of Alberta I helped build a satellite. In addition to writing and integrating a file transfer protocol (in C), 
-  I helped design and integrate drivers, design software, and analyze potential open-source alternatives. My work helped the software team 
-  achieve their goals of building an open-source satellite platform. This satellite is currently in space! 
+  Volunteering at the University of Alberta I helped build a satellite. In addition to writing and integrating a file transfer protocol (in C),
+  I helped design and integrate drivers, design software, and analyze potential open-source alternatives. My work helped the software team
+  achieve their goals of building an open-source satellite platform. This satellite is currently in space!
+
 
   As a member of Google ignite (google), I designed lessons for high school students, teaching them about computer networking. The students
   got to build and deploy their own websites.
@@ -66,21 +68,9 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        name: Open Ethereum Wallet
-        link: https://evangiese.tk/open-ethereum-wallet/
-        github: https://github.com/EvanGee/OpenEthereumWallet
-        quote: >
-          Open Ethereum Wallet is a wallet app that lets you store keys and easily interact with smart contracts.
-
-        description: | # this will include new lines to allow paragraphs
-          Open Ethereum Wallet is a wallet app that lets users easily interact with a 
-          variety of block-chain applications using a simple rest API. It has a mobile app GUI, but can operate without a GUI.
-
-        # Project template
+      # Project template
       - layout: top-middle
         name: multi-level feedback queue (MLFQ) simulation
-        link: https://learn-mlfq.herokuapp.com/
         quote: >
           This is a simulation of a multilevel feedback queue.
         description: | # this will include new lines to allow paragraphs
@@ -91,17 +81,12 @@ content:
         # Project template
       - layout: top-middle
         name: The Consultative Committee for Space Data Systems (CCSDS) File delivery protocol
-        github: https://github.com/EvanGee/CCSDS_FileDeliveryProtocol
+        link: https://github.com/EvanGee/CCSDS_FileDeliveryProtocol
         quote: >
           This is a file transfer protocol written in C that adheres to CCSDS standards
         description: | # this will include new lines to allow paragraphs
-          This project is still being worked on, it adheres to strict space design standards for file transfer. We are planning to add it to the opensource satellite project at the Universtiy of Alberta.
-
-        # Project template
-      - layout: top-middle
-        name: My Blog!
-        description: | # this will include new lines to allow paragraphs
-          I have lots of project's i'm always working on, If I were to put them all on my resume, It would be too bloated. Check it out at evangiese.tk
+          This project adheres to strict space design standards for file transfer. We use a version of it on Ex-alta-2 
+          the opensource satellite project at the Universtiy of Alberta.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -114,7 +99,7 @@ content:
         dates: August 2018 - September 2018
         quote: >
           a small photography company, that wanted an app built to rename photos
-          description: | # this will include new lines to allow paragraphs
+        description: | # this will include new lines to allow paragraphs
           As a contractor, I helped deliver value to their organization by reducing costs. This app
           reduces the time employees need to label and download images for portfolios by approximately 20 minutes a day.
           You can check it out a simple version here https://evangee.github.io/ImageOrganizer/#/
@@ -126,7 +111,7 @@ content:
         dates: Oct 10 2019 - August 2021
         quote: >
           Building cool stuff for data centers
-          description: | # this will include new lines to allow paragraphs
+        description: | # this will include new lines to allow paragraphs
           As a software engineer (U.S) I help to diagnose bugs in Dell's product firmware, as well as other potential bugs that customers
           face. Dell relies on my knowledge of storage area networks to provide support to customers who have unforeseen issues with their products.
           I helped saved banks and other large customers millions of dollars from data center outages.
@@ -137,8 +122,8 @@ content:
         job_title: Senior Software Developer
         dates: August 2021 - present
         quote: >
-          Designing and integrating order automation, orbit prediction, scalable cloud solutions, and internal web applications. 
-          description: | # this will include new lines to allow paragraphs
+          Designing and integrating order automation, orbit prediction, scalable cloud solutions, and internal web applications.
+        description: | # this will include new lines to allow paragraphs
           I was the seventh employee, and first software person on the team. I designed and built the first draft of their software. 
           They rely on me to figure out when and where to take photo's from space, and construct a scalable, secure, extensible software stack
           that can take customer orders and task our satellites. My software has helped secure grant funding of over 1 million dollars, and is currently being used
@@ -163,20 +148,22 @@ content:
         quote: >
           Major in Accounting with a focus in finance
         description: | # this will include new lines to allow paragraphs
-          Developed an understanding of corporate financial structures, and impactful business decisions.
+          Developed an understanding of corporate financial structures, and impactful business decisions. My favorite classes were
+          tax and law.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Automated Gardening
-      - Automated Farming
-      - Reviewing Corporate tax structures
+      - Automated Gardening + Farming
+      - Reviewing Corporate tax structures -- Sometimes I loose sleep thinking about how awesome holding companies are.
+      - Economics and banking
       - Building radio devices.
-      ![Plants0](/images/plants.jpg "Plants0")
-      ![Plants1](/images/plants.jpg "Plants1")
-      ![Plants2](/images/plants.jpg "Plants2")
-      ![Plants3](/images/plants.jpg "Plants3")
+      ![Plants0](/EvanGee/images/plants.jpg "Plants0")
+      ![Plants1](/EvanGee/images/plants.jpg "Plants1")
+      ![Plants2](/EvanGee/images/plants.jpg "Plants2")
+      ![Plants3](/EvanGee/images/plants.jpg "Plants3")
+      ![Trees](/EvanGee/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
