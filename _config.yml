@@ -80,10 +80,10 @@ content:
         title: The Consultative Committee for Space Data Systems (CCSDS) File delivery protocol
         quote: >
           This is a file transfer protocol written in C that adheres to CCSDS standards
-        link: https://github.com/EvanGee/CCSDS_FileDeliveryProtocol
         description: | # this will include new lines to allow paragraphs
           This project adheres to strict space design standards for file transfer. We use a version of it on Ex-alta-2 
           the open-source satellite project at the University of Alberta.
+        link: https://github.com/EvanGee/CCSDS_FileDeliveryProtocol
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -99,7 +99,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           As a contractor, I helped deliver value to their organization by reducing costs. This app
           reduces the time employees need to label and download images for portfolios by approximately 20 minutes a day.
-          You can check it out a simple version here https://evangee.github.io/ImageOrganizer/#/
+          You can check it out a simple version here
+        link: https://evangee.github.io/ImageOrganizer/#/
 
       - layout: top-middle
         title: Dell EMC/HCL
