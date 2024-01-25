@@ -62,33 +62,37 @@ about_content: | # this will include new lines to allow paragraphs
   got to build and deploy their own websites.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      # Project template
-      - layout: top-middle
-        title: multi-level feedback queue (MLFQ) simulation
-        quote: >
-          This is a simulation of a multilevel feedback queue.
-        description: | # this will include new lines to allow paragraphs
-          This project was built to aid students in learning how an MLFQ functions. We wrote a paper on it which is published in 
-          '2017 8th IEEE Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON)' you can read it here:
-          https://ieeexplore.ieee.org/document/8117201
-
-        # Project template
-      - layout: top-middle
-        title: The Consultative Committee for Space Data Systems (CCSDS) File delivery protocol
-        quote: >
-          This is a file transfer protocol written in C that adheres to CCSDS standards.
-        description: | # this will include new lines to allow paragraphs
-          This project adheres to strict space design standards for file transfer. We use a version of it on Ex-alta-2,
-          the open-source satellite project at the University of Alberta.
-        link: https://github.com/EvanGee/CCSDS_FileDeliveryProtocol
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+
       # Experience template
+      - layout: top-middle
+        title: Wyvern
+        #link: Link to company (optional)
+        sub_title: Senior Software Engineer
+        caption: August 2021 - present
+        quote: >
+          Designing and integrating order automation, orbit prediction, scalable cloud solutions, and internal web applications.
+        description: | # this will include new lines to allow paragraphs
+          I was the seventh employee and first software person on the team.
+          They rely on me to figure out when and where to take photo's from space, and construct a scalable, secure, extensible software stack
+          that can take customer orders and task our now 3 active satellites. My software has helped secure grant funding of over 1 million dollars, 
+          and is currently being used to task our first 3 Satellites.
+
+      - layout: top-middle
+        title: Dell EMC/HCL
+        #link: Link to company (optional)
+        sub_title: Senior Software Engineer
+        caption: October 2019 - August 2021
+        quote: >
+          Building cool stuff for data centers
+        description: | # this will include new lines to allow paragraphs
+          As a software engineer (U.S) I helped to diagnose bugs in Dell's product firmware. Dell relied on my knowledge of storage area networks
+          to provide support to customers who have unforeseen issues with their products. I helped saved banks and other large customers millions
+          of dollars from data center outages.
+
       - layout: top-middle
         title: Private photography company
         #link: Link to company (optional)
@@ -99,33 +103,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           As a contractor, I helped deliver value to their organization by reducing costs. This app
           reduces the time employees need to label and download images for portfolios by approximately 20 minutes a day.
-          You can check it out a simple version here:
+          You can check out a simple version here:
         link: https://evangee.github.io/ImageOrganizer/#/
-
-      - layout: top-middle
-        title: Dell EMC/HCL
-        #link: Link to company (optional)
-        sub_title: Senior Software Engineer(U.S)
-        caption: Oct 2019 - August 2021
-        quote: >
-          Building cool stuff for data centers
-        description: | # this will include new lines to allow paragraphs
-          As a software engineer (U.S) I helped to diagnose bugs in Dell's product firmware. Dell relied on my knowledge of storage area networks
-          to provide support to customers who have unforeseen issues with their products. I helped saved banks and other large customers millions
-          of dollars from data center outages.
-
-      - layout: top-middle
-        title: Wyvern
-        #link: Link to company (optional)
-        sub_title: Senior Software Developer
-        caption: August 2021 - present
-        quote: >
-          Designing and integrating order automation, orbit prediction, scalable cloud solutions, and internal web applications.
-        description: | # this will include new lines to allow paragraphs
-          I was the seventh employee and first software person on the team. I designed and built the first draft of their software. 
-          They rely on me to figure out when and where to take photo's from space, and construct a scalable, secure, extensible software stack
-          that can take customer orders and task our satellites. My software has helped secure grant funding of over 1 million dollars, 
-          and is currently being used to task our first Satellite.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -150,16 +129,40 @@ content:
           Developed an understanding of corporate financial structures, and impactful business decisions. My favorite classes were
           tax, law, and financial accounting.
 
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      # Project template
+      - layout: top-middle
+        title: multi-level feedback queue (MLFQ) simulation
+        quote: >
+          This is a simulation of a multilevel feedback queue.
+        description: | # this will include new lines to allow paragraphs
+          This project was built to aid students in learning how an MLFQ functions. We wrote a paper on it which is published in 
+          '2017 8th IEEE Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON).' You can read it here:
+          https://ieeexplore.ieee.org/document/8117201
+
+        # Project template
+      - layout: top-middle
+        title: The Consultative Committee for Space Data Systems (CCSDS) File delivery protocol
+        quote: >
+          This is a file transfer protocol written in C that adheres to CCSDS standards.
+        description: | # this will include new lines to allow paragraphs
+          This project adheres to strict space design standards for file transfer. We use a version of it on Ex-alta-2,
+          the open-source satellite project at the University of Alberta.
+        link: https://github.com/EvanGee/CCSDS_FileDeliveryProtocol
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Automated Gardening + Farming
-      - Reviewing Corporate tax structures -- Sometimes I lose sleep thinking about how awesome holding companies are.
-      - Economics and banking
-      - Building radio devices.
+      - Automated Gardening + Farming.
+      - Tax structures.
+      - Economics, securities and banking.
+      - Building apps.
+      - Genuienly, my job is my hobby. I love to code and build things.
 
-      Here is my home made High Pressure Aeroponics setup in my house.
+      Here is my home made High Pressure Aeroponics setup in my house. It uses 95% less water usuage than traditional hydroponics and 60% less fertilizer. 
 
       ![Plants1](/EvanGee/images/plants1.jpg "Plants1")
 
