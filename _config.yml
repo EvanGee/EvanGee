@@ -103,7 +103,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           As a contractor, I helped deliver value to their organization by reducing costs. This app
           reduces the time employees need to label and download images for portfolios by approximately 20 minutes a day.
-          Click on the link above to check out a simple version.
+          Click on the above link to check out a simple version.
         link: https://evangee.github.io/ImageOrganizer/#/
 
   - title: Education # Title for the section
@@ -139,7 +139,7 @@ content:
           This is a simulation of a multilevel feedback queue.
         description: | # this will include new lines to allow paragraphs
           This project was built to aid students in learning how an MLFQ functions. We wrote a paper on it which is published in 
-          '2017 8th IEEE Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON).' Click on the link above to read it.
+          '2017 8th IEEE Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON).' Click on the above link to read it.
         link: https://ieeexplore.ieee.org/document/8117201
 
         # Project template
