@@ -46,7 +46,7 @@ linkedin_username: evan-giese-47192bba
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/new_profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   *programmer joke: __!false__, it’s funny because it’s true.*
 
@@ -159,9 +159,9 @@ content:
       - Automated Gardening + Farming.
       - Tax structures.
       - AI.
-      - Economics, securities and banking.
+      - Economics, securities, and banking.
       - Building apps.
-      - Genuienly, my job is my hobby. I love to code and build things.
+      - Genuienly my job is my hobby. I love to code and build things.
 
       Here is my home made High Pressure Aeroponics setup in my house. It uses 95% less water usuage than traditional hydroponics and 60% less fertilizer. 
 
