@@ -103,7 +103,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           As a contractor, I helped deliver value to their organization by reducing costs. This app
           reduces the time employees need to label and download images for portfolios by approximately 20 minutes a day.
-          You can check out a simple version here.
+          You can check out a simple version above.
         link: https://evangee.github.io/ImageOrganizer/#/
 
   - title: Education # Title for the section
