@@ -162,73 +162,6 @@ content:
           the open-source satellite project at the University of Alberta.
         link: https://github.com/EvanGee/CCSDS_FileDeliveryProtocol
 
-
-
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      # Experience template
-      - layout: top-middle
-        title: Private photography company
-        #link: Link to company (optional)
-        sub_title: Software contractor
-        caption: August 2018 - September 2018
-        quote: >
-          a small photography company that wanted an app built to rename photos.
-        description: | # this will include new lines to allow paragraphs
-          As a contractor, I helped deliver value to their organization by reducing costs. This app
-          reduces the time employees need to label and download images for portfolios by approximately 20 minutes a day.
-          You can check it out a simple version here
-        link: https://evangee.github.io/ImageOrganizer/#/
-
-      - layout: top-middle
-        title: Dell EMC/HCL
-        #link: Link to company (optional)
-        sub_title: Senior Software Engineer(U.S)
-        caption: Oct 10 2019 - August 2021
-        quote: >
-          Building cool stuff for data centers
-        description: | # this will include new lines to allow paragraphs
-          As a software engineer (U.S) I help to diagnose bugs in Dell's product firmware. Dell relies on my knowledge of storage area networks
-          to provide support to customers who have unforeseen issues with their products. I helped saved banks and other large customers millions
-          of dollars from data center outages.
-
-      - layout: top-middle
-        title: Wyvern
-        #link: Link to company (optional)
-        sub_title: Software Developer
-        caption: August 2021 - present
-        quote: >
-          Designing and integrating order automation, orbit prediction, scalable cloud solutions, and internal web applications.
-        description: | # this will include new lines to allow paragraphs
-          I was the seventh employee, and first software person on the team. I designed and built the first draft of their software. 
-          They rely on me to figure out when and where to take photo's from space, and construct a scalable, secure, extensible software stack
-          that can take customer orders and task our satellites. My software has helped secure grant funding of over 1 million dollars, 
-          and is currently being used to task our first 3 Satellites.
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: MacEwan University
-        sub_title: Bachelor of Science
-        caption: 2016 - 2019
-        quote: >
-          Major in computer science with a minor in economics
-        description: | # this will include new lines to allow paragraphs
-          Developed an understanding of many common programming languages (java, C#, python, sql, Go, C etc), with extra focus on C. 
-          Developed understanding of networks, operating systems, security, databases, agile development and working in teams, and more.
-
-      - layout: top-middle
-        title: MacEwan University
-        sub_title: Bachelor of Commerce
-        caption: 2012 - 2016
-        quote: >
-          Major in Accounting with a focus in finance
-        description: | # this will include new lines to allow paragraphs
-          Developed an understanding of corporate financial structures, and impactful business decisions. My favorite classes were
-          tax, law, and financial accounting.
-
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -237,7 +170,7 @@ content:
       - Reviewing Corporate tax structures. I love trying to save people money. Corporate structures are a way to do that.
       - Economics and banking
 
-      Here is my home made High Pressure Aeroponics setup in my house. It uses 95% less water usuage than traditional hydroponics and 60% less fertilizer. 
+      Here is my home made, fully automated, High Pressure Aeroponics setup in my house. It uses 95% less water usuage than traditional hydroponics and 60% less fertilizer. 
 
       ![Plants1](/EvanGee/images/plants1.jpg "Plants1")
 
