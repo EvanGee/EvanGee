@@ -71,7 +71,7 @@ content:
       - layout: top-middle
         title: Wyvern
         #link: Link to company (optional)
-        sub_title: Senior Software Engineer
+        sub_title: Software Engineer
         caption: August 2021 - present
         quote: >
           Designing and integrating order automation, orbit prediction, scalable cloud solutions, and internal web applications.
@@ -134,11 +134,11 @@ content:
     content:
 
       - layout: top-middle
-        title: WeatherFurcast.com
+        title: Weatherfurcast.com
         quote: >
           A weather forcast app that uses AI models of pets.
         description: | # this will include new lines to allow paragraphs
-          This project was built to help people understand the weather in a fun way. It uses cute pictures of pets that change based on the weather.
+          This project was built to get people weather updates in a fun way. It uses cute pictures of pets that change based on the weather.
           mobile app coming soon.
         link: https://weatherfurcast.com
 
