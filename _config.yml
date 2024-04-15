@@ -50,6 +50,11 @@ linkedin_username: evan-giese-47192bba
 about_content: | # this will include new lines to allow paragraphs
   *programmer joke: __!false__, it’s funny because it’s true.*
 
+  Being the first software engineer at Wyvern, I developed a wide range of software experience. I had the opportunity
+  to help design and integrate all the components that a successfull software operation needs. Including, CI/CD pipeline, web technologies and frameworks,
+  custom ETL pipelines, and infrustructure deployment. I was able to get a lot of experience in a short amount of time. Furthermore, I was
+  able to help create a culture of learning, kindness, and growth at Wyvern.
+
   At University I was one of the founders and the vice president of the MacEwan computer science club. As vice president, I helped 
   students engage in computer science, raising the club membership from around 10 to over 100 people in a couple months. The club
   and I organized many talks and events. Today, the club still exists and has grown to thousands of computer science students and Alumni.
@@ -57,11 +62,6 @@ about_content: | # this will include new lines to allow paragraphs
   Volunteering at the University of Alberta I helped build a satellite. In addition to writing and integrating a file transfer protocol (in C),
   I helped design and integrate drivers, design software, and analyze potential open-source alternatives. My work helped the software team
   achieve its goals of building an open-source satellite platform. This satellite is currently in space! https://albertasat.ca/ex-alta-2/
-
-  Being the first software engineer at Wyvern, I developed a wide range of software experience. I had the opportunity
-  to help design and integrate all the components that a successfull software operation needs. Including, CI/CD pipeline, web technologies and frameworks,
-  custom ETL pipelines, and infrustructure deployment. I was able to get a lot of experience in a short amount of time. Furthermore, I was
-  able to help create a culture of learning, kindness, and growth at Wyvern.
 
 content:
 
