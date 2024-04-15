@@ -59,9 +59,10 @@ about_content: | # this will include new lines to allow paragraphs
   achieve its goals of building an open-source satellite platform. This satellite is currently in space! https://albertasat.ca/ex-alta-2/
 
   Being the first software engineer at Wyvern, I got a wide view of the software development from a ground up perspective. I had the opportunity
-  to help design and integrate all the components that a successfull software operation needs. Including, CI/CD pipeline, Web technologies and frameworks,
-  custom ETL pipelines, and Infrustructure deployment. I was able to get a lot of experience in a short amount of time.
-  
+  to help design and integrate all the components that a successfull software operation needs. Including, CI/CD pipeline, web technologies and frameworks,
+  custom ETL pipelines, and infrustructure deployment. I was able to get a lot of experience in a short amount of time. Furthermore, I was
+  able to help create a culture of learning, kindness, and growth at Wyvern. 
+
 content:
 
   - title: Experience # Title for the section
