@@ -51,9 +51,9 @@ about_content: | # this will include new lines to allow paragraphs
   *programmer joke: __!false__, it’s funny because it’s true.*
 
   As the first software engineer at Wyvern, I developed a wide range of software. I had the opportunity to design and integrate the CI/CD pipeline, web technologies and frameworks, custom ETL pipelines, and infrastructure.
-  I was able to gain a lot of experience in a short amount of time, using industry standard tools like git, terraform, ARGO, AWS ECS, and much more.
-  As well as become proficient in python, javascript, typescript, GoLang, and Java for development purposes.
-  Furthermore, I was able to help create a culture of learning, kindness, and growth at Wyvern.
+  I was able to gain a lot of experience in a short amount of time, using industry standard tools like Git, Terraform, Django, ARGO (kubernetes), AWS ECS, Docker, and much more.
+  As well as become proficient in python, javascript, typescript, GoLang, and Java for development purposes.  I have space flight dynamics experience, I was responsible for designing and integrating the orbital image planning and 
+  orbital prediction software that is currently in use. Furthermore, I was able to help create a culture of learning, kindness, and growth at Wyvern.
 
   At University I was one of the founders and the vice president of the MacEwan computer science club. As vice president, I helped 
   students engage in computer science, raising the club membership from around 10 to over 100 people in a couple months. The club
