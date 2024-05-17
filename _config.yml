@@ -51,16 +51,13 @@ about_content: | # this will include new lines to allow paragraphs
   *programmer joke: __!false__, it’s funny because it’s true.*
 
   As the first software engineer at Wyvern, I developed a wide range of software. I had the opportunity to design and integrate the CI/CD pipeline, 
-  web technologies and frameworks, custom ETL pipelines, and infrastructure. I designed an implemented an event driven architecture with and GoLang that allows for easy integration of new microservices.
+  web technologies and frameworks, custom ETL pipelines, and infrastructure. I designed an implemented an event driven architecture using GoLang and Kafka that allows for easy integration of new microservices.
   I was able to gain a lot of experience in a short amount of time, using industry standard tools like git, terraform, ARGO (kubernetes), AWS ECS, and much more.
   I am proficient in python, javascript, typescript, GoLang, and Java, and C for development purposes. In addition, I was able to help create a culture of learning, kindness, and growth at Wyvern.
   
   At University I was one of the founders and the vice president of the MacEwan computer science club. As vice president, I helped 
   students engage in computer science, raising the club membership from around 10 to over 100 people in a couple months. The club
   and I organized many talks and events. Today, the club still exists and has grown to thousands of computer science students and Alumni.
-
-  Volunteering at Google Ignite, I helped teach high school students how to code. I was able to help students learn the basics of programming, 
-  and how to build a website.
 
 content:
 
@@ -167,6 +164,7 @@ content:
       - Automated Gardening + Farming
       - I love trying to save people money. I have a passion for financial literacy.
       - Economics and banking
+      - Apps! I love building apps. I'm putting one on the google play store soon.
 
       Here is my home made, fully automated, High Pressure Aeroponics setup in my house. It uses 95% less water usuage than traditional hydroponics and 60% less fertilizer. 
 
