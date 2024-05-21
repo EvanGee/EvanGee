@@ -50,15 +50,21 @@ linkedin_username: evan-giese-47192bba
 about_content: | # this will include new lines to allow paragraphs
   *programmer joke: __!false__, it’s funny because it’s true.*
 
-  As the first software engineer at Wyvern, I developed a wide range of software. I had the opportunity to design and integrate the CI/CD pipeline, 
-  web technologies and frameworks, custom ETL pipelines, and infrastructure. I designed an implemented an event driven architecture using GoLang and Kafka that allows for easy integration of new microservices.
-  I was able to gain a lot of experience in a short amount of time, using industry standard tools like git, terraform, ARGO (kubernetes), AWS ECS, and much more.
-  I am proficient in python, javascript, typescript, GoLang, and Java, and C for development purposes. In addition, I was able to help create a culture of learning, kindness, and growth at Wyvern.
+  As the first software engineer at Wyvern, I had the opportunity to design and integrate the CI/CD pipeline, web technologies and 
+  frameworks,custom ETL pipelines, and cloud infrastructure. My software allowed us to qualify for an NRC IRAP grant which financed the 
+  software development. My main contributions were designing and implementing an event driven architecture using Golang and Kafka that 
+  allows for easy integration of new microservices, an orbital prediction microservice, and a satellite tasking application using 
+  React and Django that we use internally to schedule satellite passes. I was able to gain a lot of experience in a short amount of time, 
+  using industry standard tools like git, terraform, ARGO (kubernetes), AWS ECS, and much more. I am proficient in python, javascript, 
+  typescript, React, React-native, Golang, Java, and C for development purposes. In addition, I was able to help create a culture of learning, 
+  kindness, and growth at Wyvern.
   
   At University I was one of the founders and the vice president of the MacEwan computer science club. As vice president, I helped 
-  students engage in computer science, raising the club membership from around 10 to over 100 people in a couple months. The club
-  and I organized many talks and events. Today, the club still exists and has grown to thousands of computer science students and Alumni.
-
+  students engage in computer science through teaching students, club activities, and organising events. 
+  A favourite memory of mine is teaching a fellow student about HEX (base 16), and having it click for them. 
+  My contribution raised the club membership from around 10 to over 100 people in a couple months. 
+  Today, the club still exists and has grown to thousands of computer science students and Alumni. 
+  
 content:
 
   - title: Experience # Title for the section
@@ -75,7 +81,7 @@ content:
           Designing and integrating order automation, orbit prediction, scalable cloud solutions, and internal web applications.
         description: | # this will include new lines to allow paragraphs
           I was the seventh employee and first software person on the team. They rely on me to figure out when and where to take photo's from space, and construct a scalable, secure, extensible software stack
-          that can take customer orders and task our now 3 active satellites in commerical operations.  
+          that can be used to process customer orders and task our now 3 active satellites in commerical operations.  
 
       - layout: top-middle
         title: Dell EMC/HCL
@@ -154,7 +160,7 @@ content:
           This is a file transfer protocol written in C that adheres to CCSDS standards.
         description: | # this will include new lines to allow paragraphs
           This project adheres to strict space design standards for file transfer. We use a version of it on Ex-alta-2,
-          the open-source satellite project at the University of Alberta.
+          the open-source satellite project at the University of Alberta, which is currently in space.
         link: https://github.com/EvanGee/CCSDS_FileDeliveryProtocol
 
   - title: A Little More About Me
@@ -163,10 +169,10 @@ content:
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       - Automated Gardening + Farming
       - I love trying to save people money. I have a passion for financial literacy.
-      - Economics and banking
-      - Apps! I love building apps. I'm putting one on the google play store soon.
+      - Economics and banking. I use graphana to congregate and track specific financial market data.
+      - Apps! I love building apps. Weatherfurcast.com is pending app store approval.
 
-      Here is my home made, fully automated, High Pressure Aeroponics setup in my house. It uses 95% less water usuage than traditional hydroponics and 60% less fertilizer. 
+      Here is my home made, fully automated, High Pressure Aeroponics setup in my house. It uses 95% less water usuage and 60% less fertilizer than traditional hydroponics. 
 
       ![Plants1](/EvanGee/images/plants1.jpg "Plants1")
 
