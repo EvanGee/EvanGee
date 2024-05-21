@@ -55,7 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
   software development for 2 years. My main contributions were designing and implementing an event driven architecture using Golang and Kafka that 
   allows for easy integration of new microservices, an orbital prediction microservice, and a satellite tasking application using 
   React and Django that we use internally to schedule satellite assets. I was able to gain a lot of experience in a short amount of time, 
-  using industry standard tools like git, terraform, ARGO (kubernetes), AWS ECS, and much more. I am proficient in Python, Javascript, 
+  using industry standard tools like Git, Terraform, ARGO (kubernetes), AWS ECS, and much more. I am proficient in Python, Javascript, 
   Typescript, React, React-native, Golang, Java, and C for development purposes. In addition, I was able to help create a culture of learning, 
   kindness, and growth at Wyvern.
   
@@ -171,6 +171,7 @@ content:
       - I love trying to save people money. I have a passion for financial literacy.
       - Economics and banking. I use graphana to congregate and track specific financial market data.
       - Apps! I love building apps. Weatherfurcast.com is pending app store approval.
+      - Getting more involved in the edmonton dev community. I've been attending meetups, but want to try and present at one soon.
 
       Here is my home made, fully automated, High Pressure Aeroponics setup in my house. It uses 95% less water usuage and 60% less fertilizer than traditional hydroponics. 
 
