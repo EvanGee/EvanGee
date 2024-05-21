@@ -52,26 +52,13 @@ about_content: | # this will include new lines to allow paragraphs
 
   As the first software engineer at Wyvern, I had the opportunity to design and integrate the CI/CD pipeline, web technologies and 
   frameworks, custom ETL pipelines, and cloud infrastructure. My software allowed us to qualify for an NRC IRAP grant which financed the 
-  software development for 2 years. 
-
-  My main contributions were:
-  - designing and implementing an event driven architecture using Golang and Kafka that 
-  allows for easy integration of new microservices. This gave the team a framework for building microservices, which saved time and
-  mental energy when implementing services. 
-  - I built an orbital prediction microservice using opensource technology, which was much cheeper than the industry leading software (which costs around 80k/year). 
-  - I also built a satellite tasking application using React and Django that we use internally to schedule satellite assets, and
-  is currently being used to schedule our commercial opperations. 
-  - Developing the software portion of our remote space sensing license application (RSSSA) to ensure that our software was compliant 
-  with government security standards.
-  
-  I was able to gain a lot of experience in a short amount of time, 
-  using industry standard tools like Git, Terraform, ARGO (kubernetes), AWS ECS, and much more. I am proficient in Python, Javascript, 
+  software development for 2 years.  I was able to gain a lot of experience in a short amount of time, using industry standard tools like Git, Terraform, ARGO (kubernetes), AWS ECS, and much more. I am proficient in Python, Javascript, 
   Typescript, React, React-native, Golang, Java, and C for development purposes. In addition to development, I was able to help create a culture of learning, 
   kindness, and growth at Wyvern.
   
   At University I was one of the founders and the vice president of the MacEwan computer science club. As vice president, I helped
   students engage in computer science through teaching, club activities, and organizing events.
-  A favorite memory of mine is teaching a fellow student about HEX (base 16), and having it click for them.
+  A favorite memory of mine is teaching a fellow student about HEX (base 16), and having it finally click for them.
   My contribution raised the club membership from around 10 to over 100 people in a couple months.
   Today, the club still exists and has grown to thousands of computer science students and Alumni.
   
@@ -92,6 +79,14 @@ content:
         description: | # this will include new lines to allow paragraphs
           I was the seventh employee and first software person on the team. They rely on me to figure out when and where to take photo's from space, and construct a scalable, secure, extensible software stack
           that can be used to process customer orders and task our now 3 active satellites in commerical operations.  
+            My main contributions were:
+            - designing and implementing an event driven architecture using Golang and Kafka that allows for easy integration of new microservices. 
+            This gave the team a framework for building microservices, which saved time and mental energy when implementing services. 
+            - I built an orbital prediction microservice using opensource technology, which was much cheeper than the industry leading software (which costs around 80k/year). 
+            - I built a satellite tasking application using React and Django that we use internally to schedule satellite assets, and
+            is currently being used to schedule our commercial opperations. 
+            - Developing the software portion of our remote space sensing license application (RSSSA) to ensure that our software was compliant 
+            with government security standards.
 
       - layout: top-middle
         title: Dell EMC/HCL
