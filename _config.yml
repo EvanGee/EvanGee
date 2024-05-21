@@ -78,8 +78,7 @@ content:
           Designing and integrating order automation, orbit prediction, scalable cloud solutions, and internal web applications.
         description: | # this will include new lines to allow paragraphs
           I was the seventh employee and first software person on the team. They rely on me to figure out when and where to take photo's from space, and construct a scalable, secure, extensible software stack
-          that can be used to process customer orders and task our now 3 active satellites in commerical operations.  
-            My main contributions were:
+          that can be used to process customer orders and task our now 3 active satellites in commerical operations. My main contributions were:
             - designing and implementing an event driven architecture using Golang and Kafka that allows for easy integration of new microservices. 
             This gave the team a framework for building microservices, which saved time and mental energy when implementing services. 
             - I built an orbital prediction microservice using opensource technology, which was much cheeper than the industry leading software (which costs around 80k/year). 
