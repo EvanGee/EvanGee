@@ -131,7 +131,7 @@ content:
         quote: >
           A weather forcast app that uses AI models of pets.
         description: | # this will include new lines to allow paragraphs
-          This project was built to display weather updates in a fun way. The app display changes in weather by displaying cute pictures of pets that change based on the weather.
+          This project was built to display weather updates in a fun way. The app display changes in weather by displaying cute pictures of pets that change based on the weather. Mobile App is pending google approval.
 
       # Project template
       - layout: top-middle
