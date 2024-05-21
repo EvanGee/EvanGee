@@ -52,12 +52,19 @@ about_content: | # this will include new lines to allow paragraphs
 
   As the first software engineer at Wyvern, I had the opportunity to design and integrate the CI/CD pipeline, web technologies and 
   frameworks, custom ETL pipelines, and cloud infrastructure. My software allowed us to qualify for an NRC IRAP grant which financed the 
-  software development for 2 years. I designed and implemented an event driven architecture using Golang and Kafka that 
+  software development for 2 years. 
+
+  My main contributions were:
+  - designing and implementing an event driven architecture using Golang and Kafka that 
   allows for easy integration of new microservices. This gave the team a framework for building microservices, which saved time and
-  mental energy when implmenting services. I also built an orbital prediction microservice using opensource technology, 
-  which was much easier to use than the industry leading software (which costs around 80k/year). 
-  I also built a satellite tasking application using React and Django that we use internally to schedule satellite assets, and
-  is currently being used to schedule our commercial opperations. I was able to gain a lot of experience in a short amount of time, 
+  mental energy when implementing services. 
+  - I built an orbital prediction microservice using opensource technology, which was much cheeper than the industry leading software (which costs around 80k/year). 
+  - I also built a satellite tasking application using React and Django that we use internally to schedule satellite assets, and
+  is currently being used to schedule our commercial opperations. 
+  - Developing the software portion of our remote space sensing license application (RSSSA) to ensure that our software was compliant 
+  with government security standards.
+  
+  I was able to gain a lot of experience in a short amount of time, 
   using industry standard tools like Git, Terraform, ARGO (kubernetes), AWS ECS, and much more. I am proficient in Python, Javascript, 
   Typescript, React, React-native, Golang, Java, and C for development purposes. In addition to development, I was able to help create a culture of learning, 
   kindness, and growth at Wyvern.
