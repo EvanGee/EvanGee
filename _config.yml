@@ -52,10 +52,10 @@ about_content: | # this will include new lines to allow paragraphs
 
   As the first software engineer at Wyvern, I had the opportunity to design and integrate the CI/CD pipeline, web technologies and 
   frameworks, custom ETL pipelines, and cloud infrastructure. My software allowed us to qualify for an NRC IRAP grant which financed the 
-  software development for 2 years. I designed and implementing an event driven architecture using Golang and Kafka that 
+  software development for 2 years. I designed and implemented an event driven architecture using Golang and Kafka that 
   allows for easy integration of new microservices. This gave the team a framework for building microservices, which saved time and
   mental energy when implmenting services. I also built an orbital prediction microservice using opensource technology, 
-  which was much easier to understand and use than the industry leading software (which costs around 80k/year). 
+  which was much easier to use than the industry leading software (which costs around 80k/year). 
   I also built a satellite tasking application using React and Django that we use internally to schedule satellite assets, and
   is currently being used to schedule our commercial opperations. I was able to gain a lot of experience in a short amount of time, 
   using industry standard tools like Git, Terraform, ARGO (kubernetes), AWS ECS, and much more. I am proficient in Python, Javascript, 
