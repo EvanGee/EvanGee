@@ -167,7 +167,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Automated Gardening + Farming
+      - Automated Farming
       - I love trying to save people money. I have a passion for financial literacy.
       - Economics and banking. I use graphana to congregate and track specific financial market data.
       - Apps! I love building apps. Weatherfurcast.com is pending app store approval.
