@@ -100,19 +100,6 @@ content:
           to provide support to customers who have unforeseen issues with their products. I helped saved banks and other large customers millions
           of dollars from data center outages.
 
-      - layout: top-middle
-        title: Private photography company
-        #link: Link to company (optional)
-        sub_title: Software contractor
-        caption: August 2018 - September 2018
-        quote: >
-          A small photography company that wanted an app built to rename photos.
-        description: | # this will include new lines to allow paragraphs
-          As a contractor, I helped deliver value to their organization by reducing costs. This app
-          reduces the time employees need to label and download images for portfolios by approximately 20 minutes a day.
-          Click on the above link to check out a simple version.
-        link: https://evangee.github.io/ImageOrganizer/#/
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -134,7 +121,7 @@ content:
           Major in Accounting with a focus in finance.
         description: | # this will include new lines to allow paragraphs
           Developed an understanding of corporate financial structures, and impactful business decisions. My favorite classes were
-          tax, law, and financial accounting.
+          tax, law, finance, and banking.
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
