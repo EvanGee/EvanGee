@@ -51,19 +51,19 @@ about_content: | # this will include new lines to allow paragraphs
   *programmer joke: __!false__, it’s funny because it’s true.*
 
   As the first software engineer at Wyvern, I had the opportunity to design and integrate the CI/CD pipeline, web technologies and 
-  frameworks,custom ETL pipelines, and cloud infrastructure. My software allowed us to qualify for an NRC IRAP grant which financed the 
-  software development. My main contributions were designing and implementing an event driven architecture using Golang and Kafka that 
+  frameworks, custom ETL pipelines, and cloud infrastructure. My software allowed us to qualify for an NRC IRAP grant which financed the 
+  software development for 2 years. My main contributions were designing and implementing an event driven architecture using Golang and Kafka that 
   allows for easy integration of new microservices, an orbital prediction microservice, and a satellite tasking application using 
-  React and Django that we use internally to schedule satellite passes. I was able to gain a lot of experience in a short amount of time, 
-  using industry standard tools like git, terraform, ARGO (kubernetes), AWS ECS, and much more. I am proficient in python, javascript, 
-  typescript, React, React-native, Golang, Java, and C for development purposes. In addition, I was able to help create a culture of learning, 
+  React and Django that we use internally to schedule satellite assets. I was able to gain a lot of experience in a short amount of time, 
+  using industry standard tools like git, terraform, ARGO (kubernetes), AWS ECS, and much more. I am proficient in Python, Javascript, 
+  Typescript, React, React-native, Golang, Java, and C for development purposes. In addition, I was able to help create a culture of learning, 
   kindness, and growth at Wyvern.
   
-  At University I was one of the founders and the vice president of the MacEwan computer science club. As vice president, I helped 
-  students engage in computer science through teaching students, club activities, and organising events. 
-  A favourite memory of mine is teaching a fellow student about HEX (base 16), and having it click for them. 
-  My contribution raised the club membership from around 10 to over 100 people in a couple months. 
-  Today, the club still exists and has grown to thousands of computer science students and Alumni. 
+  At University I was one of the founders and the vice president of the MacEwan computer science club. As vice president, I helped
+  students engage in computer science through teaching, club activities, and organizing events.
+  A favorite memory of mine is teaching a fellow student about HEX (base 16), and having it click for them.
+  My contribution raised the club membership from around 10 to over 100 people in a couple months.
+  Today, the club still exists and has grown to thousands of computer science students and Alumni.
   
 content:
 
