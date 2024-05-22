@@ -73,16 +73,16 @@ content:
         title: Wyvern
         #link: Link to company (optional)
         sub_title: Software Engineer
-        caption: August 2021 - present
+        caption: August 2021 - March 2024
         quote: >
           Designing and integrating order automation, orbit prediction, scalable cloud solutions, and internal web applications.
         description: | # this will include new lines to allow paragraphs
-          I was the seventh employee and first software person on the team. They rely on me to figure out when and where to take photos from space, and construct a scalable, secure, extensible software stack
+          I was the seventh employee and first software person on the team. They relied on me to figure out when and where to take photos from space, and construct a scalable, secure, extensible software stack
           that can be used to process customer orders and task our now 3 active satellites in commercial operations. My main contributions were:
-            - designing and implementing an event driven architecture using Golang and Kafka that allows for easy integration of new microservices. 
+            - Designing and implementing an event driven architecture using Golang and Kafka that allows for easy integration of new microservices. 
             This gave the team a framework for building microservices, which saved time and mental energy when implementing services. 
-            - I built an orbital prediction microservice using open source technology, which was much cheaper than the industry leading software (which costs around 80k/year). 
-            - I built a satellite tasking application using React and Django that we use internally to schedule our commercial satellite assets.
+            - Building an orbital prediction microservice using open source technology, which was much cheaper than the industry leading software (which costs around 80k/year). 
+            - Building a satellite tasking application using React and Django that we use internally to schedule our commercial satellite assets.
             - Developing the software portion of our remote space sensing license application (RSSSA) to ensure that our software was compliant 
             with government security standards.
 
@@ -130,7 +130,7 @@ content:
         quote: >
           A weather forcast app that uses AI models of pets.
         description: | # this will include new lines to allow paragraphs
-          This project was built to display weather updates in a fun way. The app display changes in weather by displaying cute pictures of pets that change based on the weather. Mobile App is pending google approval.
+          This project was built to display weather updates in a fun way. The app uses AI to generate cute pictures of pets that change based on the weather. Mobile App is pending google approval.
 
       # Project template
       - layout: top-middle
