@@ -82,8 +82,7 @@ content:
             - designing and implementing an event driven architecture using Golang and Kafka that allows for easy integration of new microservices. 
             This gave the team a framework for building microservices, which saved time and mental energy when implementing services. 
             - I built an orbital prediction microservice using open source technology, which was much cheaper than the industry leading software (which costs around 80k/year). 
-            - I built a satellite tasking application using React and Django that we use internally to schedule satellite assets, and
-            is currently being used to schedule our commercial operations. 
+            - I built a satellite tasking application using React and Django that we use internally to schedule our commercial satellite assets.
             - Developing the software portion of our remote space sensing license application (RSSSA) to ensure that our software was compliant 
             with government security standards.
 
