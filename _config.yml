@@ -156,9 +156,11 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - I love trying to save people money. I have a passion for financial literacy.
-      - Economics and banking. I use graphana to congregate and track specific financial market data.
+      - I love trying to save people money, and I have a passion for financial literacy. I track all my own spending habits with a monthly budget.
+      - I love economics and banking. I use graphana to congregate and track specific financial market and interest rate data.
+      - I attend a weekly small group book club, and a weekly investment club.
       - Getting more involved in the edmonton dev community. I've been attending meetups, but want to try and present at one soon.
+      - I would absolutely love to deep dive into software development for fintech and banking.
 
       Here is my home made, fully automated, High Pressure Aeroponics setup in my house. It uses 95% less water usuage and 60% less fertilizer than traditional hydroponics. 
 
