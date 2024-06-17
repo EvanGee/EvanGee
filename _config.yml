@@ -67,6 +67,19 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      # Experience template
+      - layout: top-middle
+        title: Contractor
+        #link: Link to company (optional)
+        sub_title: Software Engineer
+        caption: June 2024 - Present
+        quote: >
+          Helping startups with their app designs, and software architecture.
+        description: | # this will include new lines to allow paragraphs
+          I am currently working with a startup to help them design and implement a demo app for them to raise funding. The process involves working with the founder 
+          to understand their vision, and then translating that into a software design that can be implemented by a team of developers. We use figma for the design, and
+          React for the front-end, django for the back-end, and Terraform for the infrastructure.
+
 
       # Experience template
       - layout: top-middle
