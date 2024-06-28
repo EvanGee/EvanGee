@@ -102,14 +102,16 @@ content:
       - layout: top-middle
         title: Dell EMC/HCL
         #link: Link to company (optional)
-        sub_title: Senior Software Engineer
+        sub_title: Escalation Engineer
         caption: October 2019 - August 2021
         quote: >
           Building cool stuff for data centers
         description: | # this will include new lines to allow paragraphs
-          As a software engineer (U.S) I helped to diagnose bugs in Dell's product firmware. Dell relied on my knowledge of storage area networks
-          to provide support to customers who have unforeseen issues with their products. I helped saved banks and other large customers millions
-          of dollars from data center outages.
+          In my role as an escalation engineer at Dell, I specialized in diagnosing bugs within product firmware. 
+          Drawing on my expertise in storage area networks, I provided crucial support to customers encountering unexpected 
+          issues with Dell products. I developed diagnostic scripts to efficiently identify and resolve complex bugs. 
+          Additionally, I assisted Dell's customer service team in resolving intricate product-related issues, effectively 
+          saving both time and money.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
