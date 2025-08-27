@@ -57,8 +57,9 @@ about_content: | # this will include new lines to allow paragraphs
 
   At Meta, I work on their AI hardware team, specifically RISCV AISCs (application specific integrated circuits).
   I am fortunate to be able to work with some of the most talented engineers in the world. My favourite memory is working with the ASIC team
-  In Silicon Valley during a 'bringup', when the global team was all together working to verify the quality of the newly crafted chips that we're shipped in. My
-  contributions allowed us to scale the debug code to multiple projects, and my tools drammatically reduced our team's time spent debugging.
+  In Silicon Valley during a 'bringup', when the global team was all together working to verify the quality of the newly crafted chips that were shipped in. My
+  contributions allowed us to scale the debug code to multiple projects, and my tools dramatically reduced our team's time spent debugging.
+
   
 content:
 
@@ -68,7 +69,7 @@ content:
 
       # Experience template
       - layout: top-middle
-        title: Senior Software Engineer
+        title: HCL@Meta
         #link: Link to company (optional)
         sub_title: Software Engineer
         caption: August 2024 - Present
@@ -111,7 +112,7 @@ content:
             with government security standards.
 
       - layout: top-middle
-        title: Dell EMC/HCL
+        title: HCL@Dell EMC
         #link: Link to company (optional)
         sub_title: Escalation Engineer
         caption: October 2019 - August 2021
