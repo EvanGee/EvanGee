@@ -57,10 +57,9 @@ about_content: | # this will include new lines to allow paragraphs
 
   At Meta, I work on their AI hardware team, specifically RISCV AISCs (application specific integrated circuits).
   I am fortunate to be able to work with some of the most talented engineers in the world. My favourite memory is working with the ASIC team
-  In Silicon Valley during a 'bringup', when the global team was all together working to verify the quality of the newly crafted chips that were shipped in. My
-  contributions allowed us to scale the debug code to multiple projects, and my tools dramatically reduced our team's time spent debugging.
+  In Silicon Valley during a 'bringup', when the global team was all together working to verify the quality of the newly manufactured chips. My
+  contributions allowed us to scale the debug code to multiple projects, and my tools dramatically reduced our team's time spent on debugging our code.
 
-  
 content:
 
   - title: Experience # Title for the section
@@ -89,7 +88,7 @@ content:
         quote: >
           Helping startups with their app designs and software applications.
         description: | # this will include new lines to allow paragraphs
-          I am currently working with a startup to help them design and implement a demo app for them to raise funding. The process involves working with the founder 
+          I worked with a startup to help them design and implement a demo app for them to raise funding. The process involves working with the founder 
           to understand their vision, and then translating that into a software design that can be implemented by a team of developers. We use Figma for the design, and
           React for the front-end, Django for the back-end, and Terraform for the infrastructure.
 
@@ -102,7 +101,7 @@ content:
         quote: >
           Designing and integrating order automation, orbit prediction, scalable cloud solutions, and internal web applications.
         description: | # this will include new lines to allow paragraphs
-          I was the seventh employee and first software person on the team. They relied on me to figure out when and where to take photos from space, and construct a scalable, secure, extensible software stack
+          I was the first software employee on the team. They relied on me to figure out when and where to take photos from space, and construct a scalable, secure, extensible software stack
           that can be used to process customer orders and task our now 3 active satellites in commercial operations. My main contributions were:
             - Designing and implementing an event driven architecture using Golang and Kafka that allows for easy integration of new microservices. 
             This gave the team a framework for building microservices, which saved time and mental energy when implementing services. 
