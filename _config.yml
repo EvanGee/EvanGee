@@ -56,7 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
   kindness, and growth at Wyvern.
 
   At Meta, I work on their AI hardware team, specifically RISCV AISCs (application specific integrated circuits).
-  I am fortunate to be able to work with some of the most talented engineers in the world. My favorite memory is working with the ASIC team
+  I am fortunate to be able to work with some of the most talented engineers in the world. My favourite memory is working with the ASIC team
   In Silicon Valley during a 'bringup', when the global team was all together working to verify the quality of the newly crafted chips that we're shipped in. My
   contributions allowed us to scale the debug code to multiple projects, and my tools drammatically reduced our team's time spent debugging.
   
